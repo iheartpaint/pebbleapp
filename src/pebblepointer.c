@@ -1,7 +1,9 @@
 /*----------------------------------------------------------------------------*/
 /* PebblePointer.c                                                            */
 /* (C) Robin Callender 2014                                                   */
-/* Modified for HackDFW 2015!                                                 */
+/* Accelerometer code hacked together from                                    */
+/* https://github.com/foldedtoad/PebblePointer                                */
+/* HackDFW 2015!                                                              */
 /*----------------------------------------------------------------------------*/
 
 #include "pebble.h"
